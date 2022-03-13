@@ -1,0 +1,49 @@
+.main {
+    padding: 0.5rem;
+    width: 98%;
+    height: 95vh;
+    box-shadow: 5px 5px 5px 5px #a4a4a4;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 100%;
+}
+
+#graph-wrapper {
+    height: 60%;
+    width: 100%;
+
+    background-color: aqua;
+}
+
+#triple-wrapper {
+    display: flex;
+    flex-direction: row;
+
+    height: 30%;
+}
+
+#current-wrapper {
+    height: 100%;
+    width: 100%;
+
+    background-color: antiquewhite;
+}
+
+#past-wrapper {
+    height: 100%;
+    width: 100%;
+
+    background-color: antiquewhite;
+}
+
+#stats-wrapper {
+    height: 100%;
+    width: 100%;
+
+    background-color: antiquewhite;
+}
